@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomicHac.Api", "AtomicHac.Api\AtomicHac.Api.csproj", "{3C42C35E-CCC0-49BA-877F-CCA20006A562}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomicHac.Logic", "AtomicHac.Logic\AtomicHac.Logic.csproj", "{348850C0-8DA7-40A9-907F-2C5DAA45901A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtomicHac.Dal", "AtomicHac.Dal\AtomicHac.Dal.csproj", "{99646C95-E2B5-4AFA-9C28-795239704D98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C42C35E-CCC0-49BA-877F-CCA20006A562}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C42C35E-CCC0-49BA-877F-CCA20006A562}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C42C35E-CCC0-49BA-877F-CCA20006A562}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C42C35E-CCC0-49BA-877F-CCA20006A562}.Release|Any CPU.Build.0 = Release|Any CPU
+		{348850C0-8DA7-40A9-907F-2C5DAA45901A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{348850C0-8DA7-40A9-907F-2C5DAA45901A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{348850C0-8DA7-40A9-907F-2C5DAA45901A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{348850C0-8DA7-40A9-907F-2C5DAA45901A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99646C95-E2B5-4AFA-9C28-795239704D98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99646C95-E2B5-4AFA-9C28-795239704D98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99646C95-E2B5-4AFA-9C28-795239704D98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99646C95-E2B5-4AFA-9C28-795239704D98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
